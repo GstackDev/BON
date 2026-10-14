@@ -1,0 +1,10 @@
+{
+  "id": "bon_room",
+  "name": "Bon Room",
+  "values": {
+    "inputGain": 0.66,
+    "mix": 0.7,
+    "pitch": 0.12,
+    "formant": 0.3
+  }
+}

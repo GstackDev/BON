@@ -1,0 +1,10 @@
+{
+  "id": "bon_damaged",
+  "name": "Bon Damaged",
+  "values": {
+    "inputGain": 0.9,
+    "mix": 0.82,
+    "pitch": -0.2,
+    "formant": 0.6
+  }
+}

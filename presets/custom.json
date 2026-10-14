@@ -1,0 +1,10 @@
+{
+  "id": "custom",
+  "name": "Custom",
+  "values": {
+    "inputGain": 0.5,
+    "mix": 0.5,
+    "pitch": 0.0,
+    "formant": 0.0
+  }
+}

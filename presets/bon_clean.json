@@ -1,0 +1,10 @@
+{
+  "id": "bon_clean",
+  "name": "Bon Clean",
+  "values": {
+    "inputGain": 0.52,
+    "mix": 0.35,
+    "pitch": 0.05,
+    "formant": 0.1
+  }
+}

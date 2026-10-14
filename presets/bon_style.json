@@ -1,0 +1,10 @@
+{
+  "id": "bon_style",
+  "name": "Bon Style",
+  "values": {
+    "inputGain": 0.72,
+    "mix": 0.62,
+    "pitch": 0.2,
+    "formant": 0.35
+  }
+}
